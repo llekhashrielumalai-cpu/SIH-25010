@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:6/10/25
+## Register Number:25008477
+## Name:LEKHASHRI E
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -90,4 +90,7 @@ Potential Challenges & Mitigation
 	•	Agmarknet portal for market price data.
 	•	IMD for weather integration.
 	•	Case studies of e-Choupal, Kisan Call Centers, and mKisan.
+##DIAGRAM
+<img width="609" height="313" alt="SIH" src="https://github.com/user-attachments/assets/02a6de7c-d52d-4ab6-83a8-9d4af89275fe" />
+
  
